@@ -34,7 +34,7 @@ Over the last few years, there is an increase in the desire to use deep learning
 ## Attention Mechanism
 We proposed an attention mechanism that relies on a prior belief that much of the clues come from two major regions- the mouse region and the eyes region. Considering this fact we divide the images into two blocks.
 - Upper Block consists of the eyes and eyebrows.
-- Lower Block consists of the mouse.  
+- Lower Block consists of the mouth.  
 We extract those two blocks by a pretrained model from OpenCv library and others helper functions we implemented.
 
 The fully explenation is in the report.
