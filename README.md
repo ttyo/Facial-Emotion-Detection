@@ -1,4 +1,4 @@
-# Facial Expression Recognition Using Prior Attention
+# Facial Expression Recognitions Using Prior Attention
 
 ## Table of contents
 
