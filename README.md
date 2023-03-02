@@ -32,9 +32,9 @@ Over the last few years, there is an increase in the desire to use deep learning
 | `res `                      | Folder consists of all the images from the project                                                |
 | `requirement.txt`           | File containing all the packages we used in this project                                          |
 ## Attention Mechanism
-We proposed an attention mechanism that relies on a prior belief that much of the clues come from two major regions- the mouse region and the eyes region. Considering this fact we divide the images into two blocks.
+We proposed an attention mechanism that relies on a prior belief that much of the clues come from two major regions- the mouth region and the eyes region. Considering this fact we divide the images into two blocks.
 - Upper Block consists of the eyes and eyebrows.
-- Lower Block consists of the mouth.  
+- Lower Block consists of the m.  
 We extract those two blocks by a pretrained model from OpenCv library and others helper functions we implemented.
 
 The fully explenation is in the report.
